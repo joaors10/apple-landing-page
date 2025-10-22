@@ -16,9 +16,9 @@ const Hero = () => {
 
             <video ref={videoRef} src="/videos/hero.mp4" autoPlay muted playsInline></video>
 
-            <button>Buy</button>
+            <button>Comprar</button>
 
-            <p>From $1599 or $133/mo for 12 months</p>
+            <p>A partir de R$ 9.099 ou em até 12x de R$ 749 sem juros</p>
         </section>
     )
 }
